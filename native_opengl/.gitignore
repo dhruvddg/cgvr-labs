@@ -1,0 +1,7 @@
+# Build output
+cgvr_opengl
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
